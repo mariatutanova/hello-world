@@ -1,0 +1,3 @@
+File created on local repository
+New line added on local repository
+Test commit without verbose
